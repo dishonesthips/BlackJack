@@ -1,0 +1,4 @@
+javac HoumaniB_BlackJack.java
+pause
+java HoumaniB_BlackJack
+pause
