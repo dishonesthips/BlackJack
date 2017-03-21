@@ -262,10 +262,7 @@ class Player
 
 		totals[0] = total + numAces * 1;
 		totals[1] = 0;
-		
-		if (totals[1] > 21)
-			numAces = 0;
-		
+			
 		if (numAces > 0)
 		{
 			totals[1] = total + 11 + (numAces-1)*1;
